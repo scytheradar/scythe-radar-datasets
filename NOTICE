@@ -1,0 +1,24 @@
+ScytheRadar - scythe-radar-datasets
+Provenance and attribution notice
+
+1. LICENSING
+   All data files in the data/ directory are dedicated to the public domain under the
+   Creative Commons CC0 1.0 Universal Public Domain Dedication. See LICENSE for the
+   full legal code. To the extent possible under law, ScytheRadar has waived all
+   copyright and related or neighbouring rights to this data.
+
+2. OFAC SANCTIONS SUBSET (data/ofac-sanctioned-addresses.*)
+   Derived from United States Government public data (the OFAC Specially Designated
+   Nationals list). United States Government works carry no copyright in the first
+   place.
+
+3. DEAD-TOKEN ARCHIVE SUBSET (data/dead-token-archive.*)
+   Compiled by ScytheRadar from public on-chain data. Contract addresses and
+   transaction hashes are on-chain facts and are independently verifiable on the
+   respective public block explorers.
+
+4. NO WARRANTY
+   This data is provided as-is for research and risk-screening purposes. It is not
+   legal, financial or investment advice.
+
+Source: https://scytheradar.com
